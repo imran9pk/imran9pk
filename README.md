@@ -34,7 +34,8 @@ I'm a **Software Engineering Researcher and Educator** focused on improving soft
 ## 🌐 Connect with Me
 
 <a href="https://www.linkedin.com/in/imran9pk" target="_blank">LinkedIn</a> |
-<a href="https://spencerlabaq.github.io/author/muhammad-imran/" target="_blank">Personal Website</a> |
+<a href="https://imran9pk.github.io/" target="_blank">Personal Website</a> |
+<a href="https://spencerlabaq.github.io/author/muhammad-imran/" target="_blank">Research Group</a> |
 <a href="https://imran9pk.medium.com" target="_blank">Medium Blog</a>
 
 ---
